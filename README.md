@@ -3,19 +3,19 @@
 GLSLでのシェーディング入門のために書いたコード
 ![preview](https://i.gyazo.com/ade125a91627e5b218e68769565306da.png)
 
-# Dependency
-## framework
+## Dependency
+### framework
 openframeworks 0.11.0
-## addon
+### addon
  - ofxGui 
  - ofxAssimpModelLoader
 
-# Usage
+## Usage
 キーボードとマウスで操作
-## Mouse
+### Mouse
 - ドラッグでモデル回転
 - 'lightDirスライダー'で平行光源のベクトルを操作
-## Keyboard
+### Keyboard
 - 数字キーで表示する図形の変更
   - '0' ウサギの3dモデル
   - '1' ofSpherePrimitive
@@ -28,5 +28,5 @@ openframeworks 0.11.0
   - 'c' フラットシェーディング
   - 'd' オリジナルのシェーディング1
   - 'e' オリジナルのシェーディング2
-# Video
+## Video
 https://www.youtube.com/watch?v=_HIiFZcCZSA
