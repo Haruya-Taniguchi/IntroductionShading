@@ -1,6 +1,5 @@
 # IntroductionShading
- 
-GLSLでのシェーディング入門のために書いたコード
+基本的なシェーディングを実装をした。
 ![preview](https://i.gyazo.com/ade125a91627e5b218e68769565306da.png)
 
 ## Dependency
