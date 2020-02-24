@@ -104,9 +104,6 @@ void ofApp::draw(){
         case 4:
             vboMesh = box.getMesh();
         break;
-        case 5:
-            vboMesh = sphere.getMesh();
-        break;
     };
 
     for(int j=0; j<vboMesh.getVertices().size(); j++){
@@ -147,8 +144,6 @@ void ofApp::keyPressed(int key){
         case '4':
             mode = 4;
         break;
-        case '5':
-            mode = 5;
         break;
         case 'a':
             shader.load("shaders/gouraud");
