@@ -16,7 +16,7 @@ openframeworks 0.11.0
 - 'lightDirスライダー'で平行光源のベクトルを操作
 ### Keyboard
 - 数字キーで表示する図形の変更
-  - '0' ウサギの3dモデル
+  - '0' スタンフォードバニー
   - '1' ofSpherePrimitive
   - '2' ofIcoSpherePrimitive
   - '3' ofCylinderPrimitive
